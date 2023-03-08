@@ -4,3 +4,4 @@ node_modules
 pnpm-debug.log
 tup.config
 dist/
+play.pokemonshowdown.com/
